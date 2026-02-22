@@ -25,30 +25,14 @@
 <h3>🌐 Socials</h3>
   
 
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/Midhun-Nk](https://github.com/ThineshkumarSadhasivam">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
 
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="https://www.linkedin.com/in/thineshkumar-s-1226b6326/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
 
 <br clear="all" />
 
@@ -67,7 +51,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,flutter,nextjs,bootstrap" />
 </td>
 
 
@@ -76,14 +60,14 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,vscodeandriodstudio" />
 </td>
 </tr>
 </table>
