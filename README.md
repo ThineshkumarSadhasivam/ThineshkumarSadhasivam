@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧thineshkumarsadhasivam@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -25,7 +25,7 @@
 <h3>🌐 Socials</h3>
   
 
-  <a href="https://github.com/Midhun-Nk](https://github.com/ThineshkumarSadhasivam">
+  <a href="https://github.com/ThineshkumarSadhasivam">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -44,7 +44,7 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,c++" />
 <br/><br/>
 
 </td>
@@ -67,7 +67,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscodeandriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,andriodstudio" />
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ThineshkumarSadhasivam&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
